@@ -1,0 +1,11 @@
+guiguts.log
+/zipdir
+/ebooks
+*.xcf
+*.pxm
+*.pxd
+*.zip
+/README.html
+*.bin
+*.html
+*-utf8.txt
