@@ -604,7 +604,7 @@ As the attack of Small Pox in subjects who have undergone
 Vaccination, generally occurs after a long interval, it
 becomes a question whether this is owing merely to the
 chance of such subjects not having been exposed to variolous
-contagion, or to the effect of time in diminishing the anti-*variolous
+contagion, or to the effect of time in diminishing the antivariolous
 virtue of vaccination. The former is certainly conceivable;
 but when we consider the numberless severe proofs
 to which the recently vaccinated were experimentally exposed
