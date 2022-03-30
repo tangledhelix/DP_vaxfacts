@@ -765,22 +765,6 @@ than in all the world besides.
 .ce
 <xl>TABLE I.</xl>
 
-.ig
-lhv:nr
-l and r: indicate the border styles for the cell's left border and right border e.g. |
-h: alignment (l, c, r)
-v: valign (t, m, b)
-n: width in chars for text version
-.ig-
-
-.ig
-c 6
-c 10
-c 14
-c 11
-r 11
-.ig-
-
 .ta |c:6 |c:10 |c:14 |l:1 c:2 l:6 |r:10|
 _
 <th><al=c>Years.|<al=c>Total Mortality.|<al=c>Mortality from Small Pox.|<al=c>Proportion.|<span>|<span>|<al=c>Proportion to 1000.
@@ -808,38 +792,36 @@ _
 .ce
 <s>In this series it appears that the deaths from Small Pox are, to the total mortality, as 1 in 12.7; that is, 78 in 1000.</s>
 
+.ce
+<xl>TABLE II.</xl>
 
-TABLE II.
+.ta |c:6 |c:10 |c:14 |l:1 c:2 l:6 |r:10|
+_
+<th><al=c>Years.|<al=c>Total Mortality.|<al=c>Mortality from Small Pox.|<al=c>Proportion.|<span>|<span>|<al=c>Proportion to 1000.
+_
+1745 |  21,296  |     1206     |1|in    |17-3/4|    56
+1746 |  28,157  |     3236     |1|<span>|8-3/4 |   115
+1747 |  25,494  |     1380     |1|<span>|18-1/2|    54
+1748 |  23,869  |     1789     |1|<span>|13-1/2|    75
+1749 |  25,516  |     2625     |1|<span>|9-3/4 |   103
+1750 |  23,727  |     1229     |1|<span>|19-1/4|    52
+1751 |  21,028  |      998     |1|<span>|21    |    48
+1752 |  20,485  |     3538     |1|<span>|5-3/4 |   172
+1753 |  19,276  |      774     |1|<span>|25    |    40
+1754 |  22,696  |     2359     |1|<span>|9-1/2 |   104
+1755 |  21,917  |     1988     |1|<span>|11    |    91
+1756 |  20,872  |     1608     |1|<span>|13    |    77
+1757 |  21,313  |     3296     |1|<span>|6-1/2 |   155
+1758 |  17,576  |     1273     |1|<span>|13-3/4|    73
+1759 |  19,604  |     2596     |1|<span>|7-1/2 |   132
+_
+Total--332,826  |<span>|    29,895    |1|<span>|11.2  |    89
+_
+.ta-
 
-.ig
-/*
-+------+----------+--------------+-----------+----------+
-|      |  Total   |Mortality from|           |Proportion|
-|Years.|Mortality.|  Small Pox.  |Proportion.| to 1000. |
-+------+----------+--------------+-----------+----------+
-| 1745 |  21,296  |     1206     |1 in 17-3/4|    56    |
-| 1746 |  28,157  |     3236     |1    8-3/4 |   115    |
-| 1747 |  25,494  |     1380     |1    18-1/2|    54    |
-| 1748 |  23,869  |     1789     |1    13-1/2|    75    |
-| 1749 |  25,516  |     2625     |1    9-3/4 |   103    |
-| 1750 |  23,727  |     1229     |1    19-1/4|    52    |
-| 1751 |  21,028  |      998     |1    21    |    48    |
-| 1752 |  20,485  |     3538     |1    5-3/4 |   172    |
-| 1753 |  19,276  |      774     |1    25    |    40    |
-| 1754 |  22,696  |     2359     |1    9-1/2 |   104    |
-| 1755 |  21,917  |     1988     |1    11    |    91    |
-| 1756 |  20,872  |     1608     |1    13    |    77    |
-| 1757 |  21,313  |     3296     |1    6-1/2 |   155    |
-| 1758 |  17,576  |     1273     |1    13-3/4|    73    |
-| 1759 |  19,604  |     2596     |1    7-1/2 |   132    |
-+------+----------+--------------+-----------+----------+
-| Total--332,826  |    29,895    |1    11.2  |    89    |
-+-----------------+--------------+-----------+----------+
-*/
-.ig-
+.ce
+<s>In this series it appears that the proportion of deaths from Small Pox is, to the total mortality, as 1 in 11.2; that is, 89 in 1000.</s>
 
-In this series it appears that the proportion of deaths from Small Pox is, to the total
-mortality, as 1 in 11.2; that is, 89 in 1000.
 // 018.png
 .bn 018.png
 .pn +1
