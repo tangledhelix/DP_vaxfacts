@@ -1,4 +1,4 @@
-// This is a ppgen source file.
+﻿// This is a ppgen source file.
 
 // Title      : A statement of facts tending to establish an estimate of the true value and present state of vaccination
 // Author     : Blane, Gilbert
@@ -229,8 +229,8 @@ it might have been added, from the migration of mercantile
 families to the west end of the town. As a set-off to this,
 there has certainly been a great addition, in the same time, to
 those parishes within the bills, which stand on the verge of
-the metropolis, such as St. George's Hanover Square, St.
-George's Bloomsbury, Poplar, and Stepney. But the addition
+the metropolis, such as St. George’s Hanover Square, St.
+George’s Bloomsbury, Poplar, and Stepney. But the addition
 to the population, if any, within the bills of mortality, does not
 seem to be so considerable as to affect the computation. And,
 if this is admitted, the absolute numbers of the deaths from
@@ -596,7 +596,7 @@ Let all this be applied to the case of a community, in
 which the total eradication of Small Pox is quite hopeless.
 Let it be admitted that such occurrences as have been
 described do frequently occur: let it even be admitted, for
-argument's sake, that every vaccinated case whatever must
+argument’s sake, that every vaccinated case whatever must
 of necessity and unavoidably at some time or other in future
 life be affected with this mitigated species of Small Pox,
 would it not even under this great abatement be one of the
