@@ -14,7 +14,11 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Project manager notes ###
 
+Please do not use the "1/4" and "1/2" characters in the drop down menus, please render them as a normal fraction per guidelines.
+
 ### Forum notes ###
+
+No forum posts.
 
 ### General notes ###
 
