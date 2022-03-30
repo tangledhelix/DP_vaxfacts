@@ -6,64 +6,56 @@
 
 .dt A statement of facts tending to establish an estimate of the true value and present state of vaccination, by Blane, Gilbert—A Project Gutenberg eBook
 
-.h1
-fake header
-
 // 001.png
 .bn 001.png
 .pn 1
 
+.h1
+<s>A</s> || <xl>STATEMENT OF FACTS,</xl> || \
+<s>TENDING TO</s> || <l>ESTABLISH AN ESTIMATE OF THE TRUE VALUE</l> || \
+<s>AND</s> || <xl>PRESENT STATE</xl> || <s>OF</s> || \
+<xxl>VACCINATION.</xxl>
 
+.hr 15%
 
+.ce
+<l><sc>By</sc> SIR GILBERT BLANE, <sc>Bart.</sc></l>
 
-/*
-A
+.ce
+<s><i>F.R.S. of London, Edinburgh, and Göttingen; Member of the Imperial Academy of St. Petersburgh; and Physician in Ordinary to the King.</i></s>
 
-STATEMENT OF FACTS,
+.hr 35%
 
-TENDING TO
+.ce
+<xs>FROM THE TENTH VOLUME OF THE MEDICO-CHIRURGICAL TRANSACTIONS, PUBLISHED BY THE MEDICAL AND CHIRURGICAL SOCIETY OF LONDON;</xs>
 
-ESTABLISH AN ESTIMATE OF THE TRUE VALUE
+.ce
+<xl>WITH ADDITIONS.</xl>
 
-AND
+.hr 35%
 
-PRESENT STATE
+.ce
+<l>LONDON:</l>
 
-OF
+.ce
+PRINTED FOR THOMAS AND GEORGE UNDERWOOD, 32, FLEET STREET.
 
-VACCINATION.
+.hr 15%
 
-<sc>By</sc> SIR GILBERT BLANE, <sc>Bart.</sc>
-
-<i>F.R.S. of London, Edinburgh, and Göttingen; Member of the Imperial Academy
-of St. Petersburgh; and Physician in Ordinary to the King.</i>
-
-
-FROM THE TENTH VOLUME OF THE MEDICO-CHIRURGICAL TRANSACTIONS,
-PUBLISHED BY THE MEDICAL AND CHIRURGICAL
-SOCIETY OF LONDON;
-
-WITH ADDITIONS.
-
-LONDON:
-
-PRINTED FOR THOMAS AND GEORGE UNDERWOOD,
-32, FLEET STREET.
-
+.ce
 1820.
-*/
+
 // 002.png
 .bn 002.png
 .pn +1
+.pb
 
-
-
-
-J. MOYES, GREVILLE STREET, LONDON.
+.ce
+<s>J. MOYES, GREVILLE STREET, LONDON.</s>
 // 003.png
 .bn 003.png
 .pn +1
-
+.pb
 
 
 
