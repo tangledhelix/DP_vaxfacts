@@ -24,6 +24,8 @@ No forum posts.
 
 ### Illustrations ###
 
+No illustrations.
+
 ### Things to revisit ###
 
 ### Proofer's notes ###
