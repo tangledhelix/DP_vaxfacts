@@ -9,7 +9,9 @@
 .h1
 fake header
 
------File: 001.png---------------------------------------------------------
+// 001.png
+.bn 001.png
+.pn 1
 
 
 
@@ -50,13 +52,17 @@ PRINTED FOR THOMAS AND GEORGE UNDERWOOD,
 
 1820.
 */
------File: 002.png---------------------------------------------------------
+// 002.png
+.bn 002.png
+.pn +1
 
 
 
 
 J. MOYES, GREVILLE STREET, LONDON.
------File: 003.png---------------------------------------------------------
+// 003.png
+.bn 003.png
+.pn +1
 
 
 
@@ -105,7 +111,9 @@ It seems almost needless to premise, that the Small Pox
 is of all maladies that, which, during the last thousand years,
 has destroyed the largest portion of the human species, and
 been productive of the largest share of human misery. There
------File: 004.png---------------------------------------------------------
+// 004.png
+.bn 004.png
+.pn +1
 is, perhaps, no disease over which medical art has less power;
 and this power, such as it is, has consisted more in abolishing
 pernicious practices, than in ascertaining any positive methods
@@ -157,7 +165,9 @@ added to the bills of mortality, between the years 1726 and
 general salubrity ought to be estimated still higher than what
 is indicated by the diminished mortality, as it stands in the
 Tables.
------File: 005.png---------------------------------------------------------
+// 005.png
+.bn 005.png
+.pn +1
 
 The third series comprises the fifteen years previous to the
 introduction of Vaccination, when Inoculation had made still
@@ -217,7 +227,9 @@ form and size. In Buckinghamshire, on the contrary, where fuel is extremely
 scanty and dear, the race of people is small and puny, insomuch that it is
 provided by Act of Parliament that men shall be admitted into the militia
 of a smaller stature in this than other counties.]
------File: 006.png---------------------------------------------------------
+// 006.png
+.bn 006.png
+.pn +1
 mortality; the great increase having been in the parishes of
 Mary-le-bone and St. Pancras, which are not included in
 these bills. It is computed in the remarks subjoined to the
@@ -267,7 +279,9 @@ Registers, 1811, printed by authority of Parliament, page 200.</i>)
 
 Assuming, therefore, that Vaccination had not been practised
 the last fifteen years, and that the mortality from Small
------File: 007.png---------------------------------------------------------
+// 007.png
+.bn 007.png
+.pn +1
 Pox, within the bills, had in that time, that is, from 1804 to
 1818, been the same as from 1784 to 1798, that is, 27,569 in
 place of 14,716; and assuming that there has been the same
@@ -322,7 +336,9 @@ as in many cities and whole districts on the continent of
 Europe, in Peru, and Ceylon.
 
 In the summer of 1811 the author was called to visit,
------File: 008.png---------------------------------------------------------
+// 008.png
+.bn 008.png
+.pn +1
 professionally, Don Francisco de Salazar, who had arrived a
 few days before in London, on his route from Lima to Cadiz,
 as a deputy to the Spanish Cortes. He informed him, that
@@ -372,7 +388,9 @@ It is farther manifest, that extirpation being the ultimate
 aim of this discovery, and there being the fullest historical
 
 [Footnote A: See Pfaff Neuen Nord v. Archiv. B. I.]
------File: 009.png---------------------------------------------------------
+// 009.png
+.bn 009.png
+.pn +1
 and practical evidence of its being capable of accomplishing
 this end, all other questions with regard to its expediency
 must be futile and irrelevant. It is in the nature of all
@@ -421,7 +439,9 @@ indefinite powers of procreation soon repair the ravages of
 disease. But, however true this may be, the miseries incident
 to so many of those who survive Small Pox, whereby they
 become a burden to themselves, their families, and to society,
------File: 010.png---------------------------------------------------------
+// 010.png
+.bn 010.png
+.pn +1
 render this disease uncontrovertibly an evil of the first
 magnitude, not to mention the intense sufferings and afflictions
 inseparable from it; and in this view of the matter the
@@ -473,7 +493,9 @@ confluent kind. This runs on till the fifth day from the
 
 [Footnote A: See Serious Reasons for uniformly opposing Vaccination. By John
 Birch. London, 1807.]
------File: 011.png---------------------------------------------------------
+// 011.png
+.bn 011.png
+.pn +1
 eruption, both days included, at which time some of the
 <i>papulæ</i> begin to be converted into small sized pustules. The
 disorder then abruptly stops short. On the following day
@@ -522,7 +544,9 @@ As it is of the utmost consequence to establish the strong
 and important distinction between Small Pox, properly so
 called, and that which takes place after Vaccination, which
 may be called the mitigated, or five day Small Pox, a few of
------File: 012.png---------------------------------------------------------
+// 012.png
+.bn 012.png
+.pn +1
 the most impressive testimonies respecting the safe nature of
 the latter may be here recited. Mr. Brown[A], of Musselburgh,
 gives the detail of forty-eight cases, in none of which
@@ -572,7 +596,9 @@ exploded and abandoned.]
 
 [Footnote B: See also a clear and able exposition of this subject in the Medical and
 Surgical Journal of Edinburgh for July, 1818, by Mr. Dunning, of Plymouth.]
------File: 013.png---------------------------------------------------------
+// 013.png
+.bn 013.png
+.pn +1
 
 As the attack of Small Pox in subjects who have undergone
 Vaccination, generally occurs after a long interval, it
@@ -623,7 +649,9 @@ be impracticable and hopeless.
 
 It is of the highest importance to society, that this subject
 should be seen in its true light, and in all its bearings; for the
------File: 014.png---------------------------------------------------------
+// 014.png
+.bn 014.png
+.pn +1
 frequent occurrence of these cases of Small Pox, however
 safe in themselves, have had a most pernicious effect on the
 credulous and ignorant, by giving a check to the practice of
@@ -671,7 +699,9 @@ things, has, by the wise dispensation of Providence, become
 year (1819), the deaths from the Small Pox had advanced to 712;
 which ought to add to the perseverance, zeal, and vigilance, of the friends of
 humanity in prosecuting Vaccination.]
------File: 015.png---------------------------------------------------------
+// 015.png
+.bn 015.png
+.pn +1
 subservient to the most beneficent purposes: and how many
 more useful discoveries may there yet be in reserve for the
 alleviation of human misery, from obscure and undetected
@@ -720,7 +750,9 @@ more successful, because they find more encouragement in
 disseminating their principles, than the advocates of truth,
 
 [Footnote A: Dr. Edward Jenner.]
------File: 016.png---------------------------------------------------------
+// 016.png
+.bn 016.png
+.pn +1
 virtue, and good order. There is no maxim more true, than
 that the best things do become by abuse the worst, and that
 in proportion to their excellence. What a mortifying contrast
@@ -735,7 +767,9 @@ English nation has hitherto been so besotted as not to know
 how to appreciate it, nor how to avail themselves of it, and
 that it has encountered more opposition among ourselves
 than in all the world besides.
------File: 017.png---------------------------------------------------------
+// 017.png
+.bn 017.png
+.pn +1
 
 
 TABLE I.
@@ -802,7 +836,9 @@ TABLE II.
 
 In this series it appears that the proportion of deaths from Small Pox is, to the total
 mortality, as 1 in 11.2; that is, 89 in 1000.
------File: 018.png---------------------------------------------------------
+// 018.png
+.bn 018.png
+.pn +1
 
 
 TABLE III.
@@ -868,7 +904,9 @@ TABLE IV.
 
 In this series it appears that the proportion of deaths from Small Pox to the total
 mortality is 1 in 18.9, that is, 53[**unclear|F1: clearer in TIA] in 1000.
------File: 019.png---------------------------------------------------------
+// 019.png
+.bn 019.png
+.pn +1
 
 
 /*
