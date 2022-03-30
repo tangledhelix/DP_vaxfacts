@@ -57,23 +57,23 @@ PRINTED FOR THOMAS AND GEORGE UNDERWOOD, 32, FLEET STREET.
 .pn +1
 .pb
 
+.h2
+<s>A</s> || <xl>STATEMENT OF FACTS,</xl> || \
+<s>TENDING TO ESTABLISH AN ESTIMATE OF THE TRUE VALUE AND |\
+PRESENT STATE OF</s> || <xl>VACCINATION.</xl>
 
+.ce
+<l><sc>By</sc> SIR GILBERT BLANE, <sc>Bart.</sc> F.R.S. Lond. &c.</l>
 
-A
-
-STATEMENT OF FACTS,
-
-TENDING TO ESTABLISH AN ESTIMATE OF THE TRUE VALUE AND
-PRESENT STATE OF
-
-VACCINATION.
-
-<sc>By</sc> SIR GILBERT BLANE, <sc>Bart.</sc> F.R.S. Lond. &c.
-
+.ce
 <i>Physician in Ordinary to the King.</i>
 
+.hr 35%
+
+.ce
 <i>Read Nov. 10, 1819.</i>
 
+.hr 35%
 
 It is now twenty-one years since Vaccination was promulgated
 in this country by Dr. Jenner, and fifteen years since
@@ -899,9 +899,10 @@ mortality is 1 in 18.9, that is, 53[**unclear|F1: clearer in TIA] in 1000.
 // 019.png
 .bn 019.png
 .pn +1
+.pb
 
-
-/*
+.ce
 LONDON:
-PRINTED BY J. MOYES, GREVILLE STREET.
-*/
+
+.ce
+<s>PRINTED BY J. MOYES, GREVILLE STREET.</s>
