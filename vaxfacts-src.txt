@@ -111,12 +111,12 @@ is, perhaps, no disease over which medical art has less power;
 and this power, such as it is, has consisted more in abolishing
 pernicious practices, than in ascertaining any positive methods
 of controlling its fatality, unless we except the inoculation
-of it with its own <i>virus</i>. But, though the beneficial effect of
+of it with its own <lang="la"><i>virus</i></lang>. But, though the beneficial effect of
 this on those on whom it is actually practised is undeniable,
 it has no tendency like Vaccination to extirpate the disease;
 and from the impossibility of rendering it universal, it has
 actually been found to add to the general mortality of Small
-Pox, by opening a new source for the diffusion of its <i>virus</i>.
+Pox, by opening a new source for the diffusion of its <lang="la"><i>virus</i></lang>.
 
 It ought to be stated also, with a view to a decision on
 this question, that Vaccination itself is attended with no
@@ -265,8 +265,8 @@ of dissenters, amounted in that half year to 3148; and the
 reporter of the parliamentary enumeration thinks that, as
 besides these there were undiscovered interments, the unregistered
 deaths may be computed at one-third of the total
-mortality, that is, about 7000. (<i>See Abstract of the Parish
-Registers, 1811, printed by authority of Parliament, page 200.</i>)
+mortality, that is, about 7000. (<cite>See Abstract of the Parish
+Registers, 1811, printed by authority of Parliament, page 200.</cite>)
 
 Assuming, therefore, that Vaccination had not been practised
 the last fifteen years, and that the mortality from Small
@@ -360,7 +360,7 @@ literary acquirements, testifies, that, after a vigorous perseverance
 in Vaccination for six years, the Small Pox had disappeared
 in that city and the whole surrounding district; and
 that, when casually introduced by strangers, it did not spread,
-the inhabitants not being <i>susceptible</i>. The Central Committee
+the inhabitants not being <em>susceptible</em>. The Central Committee
 in Paris testify, in their Report of 1809, that the
 Small Pox had been extinguished at Lyons and other districts
 of France.
@@ -465,8 +465,8 @@ motives, to one of the most grievous calamities of which
 human nature is susceptible.
 
 The preceding reasoning is grounded on the supposition of
-extirpation: but, however demonstrable the <i>possibility</i> of
-extirpation may be, it may not in all communities be <i>practicable</i>;
+extirpation: but, however demonstrable the <em>possibility</em> of
+extirpation may be, it may not in all communities be <em>practicable</em>;
 and may not these alleged failures so operate, as, in
 such circumstances, to render the expediency of the practice
 questionable?
@@ -478,7 +478,7 @@ The description of those cases of Small Pox, (if they can
 be called so,) which occur in vaccinated subjects, is shortly
 as follows:--The invasion and eruption in every respect
 resembles that of the genuine Small Pox. I have seen it
-attended with high fever and a thick crowded crop of <i>papulæ</i>[** papula? 2d a diff from 1st],
+attended with high fever and a thick crowded crop of <lang="la"><i>papulæ</i></lang>[** papula? 2d a diff from 1st],
 such as precedes the most severe and dangerous cases of the
 confluent kind. This runs on till the fifth day from the
 
@@ -488,13 +488,13 @@ Birch. London, 1807.]
 .bn 011.png
 .pn +1
 eruption, both days included, at which time some of the
-<i>papulæ</i> begin to be converted into small sized pustules. The
+<lang="la"><i>papulæ</i></lang> begin to be converted into small sized pustules. The
 disorder then abruptly stops short. On the following day
 the fever is found to have subsided, with a shrivelling and
 desiccation of the eruption, and recovery proceeds without
 the least danger or inconvenience. The face is marked, for
 some time after, with brown spots, but without pits. It
-should never be forgotten, that all morbid <i>phænomena</i> are
+should never be forgotten, that all morbid <lang="la"><i>phænomena</i></lang> are
 full of varieties and exceptions. Accordingly, though the
 fifth day is the most common limit of this disorder, it sometimes
 stops short on the third; sometimes not till the sixth
@@ -520,15 +520,15 @@ general rule and average, and not on exceptions, these adverse
 instances ought not to have the least influence on practice,
 even though they were much more numerous. Nor indeed
 do they, except in the very rare cases here cited, deserve the
-name of failures; for, though they fail in preventing <i>Small
-Pox</i>, they do not fail to prevent <i>Death</i>. And let me here,
+name of failures; for, though they fail in preventing <em>Small
+Pox</em>, they do not fail to prevent <em>Death</em>. And let me here,
 in the name of humanity, beseech practitioners not to be forward
 in publishing single cases of failures, real or supposed;
 for, when the weak minded and uninformed hear of these
 failures, without hearing at the same time that there are
 hundreds of cases of permanent security for every single case
-of failure, they are guided by the <i>exception</i>, which becomes to
-them the <i>rule</i>; their judgments being thereby most fatally
+of failure, they are guided by the <em>exception</em>, which becomes to
+them the <em>rule</em>; their judgments being thereby most fatally
 perverted.
 
 As it is of the utmost consequence to establish the strong
@@ -635,7 +635,7 @@ own account, but still more on account of the prejudice it
 creates. This, in the eye of general benevolence, constitutes
 an additional, though secondary motive for extending the
 vaccine inoculation as widely as possible, even though the
-attainment of the <i>maximum</i>, that is, total extirpation, should
+attainment of the <em>maximum</em>, that is, total extirpation, should
 be impracticable and hopeless.
 
 It is of the highest importance to society, that this subject
@@ -666,8 +666,8 @@ seriously and considerately on the subject, when I
 say, that whenever he applies his mind to it, he finds some
 new and increasing cause of complacency and satisfaction.
 Viewed as a mere physical fact in the natural history of the
-animal kingdom, the virtue of the vaccine <i>virus</i> in resisting
-the action of the <i>variolous</i>, is, by its novelty and singularity,
+animal kingdom, the virtue of the vaccine <lang="la"><i>virus</i></lang> in resisting
+the action of the <lang="la"><i>variolous</i></lang>, is, by its novelty and singularity,
 highly striking and interesting to every one whose taste leads
 him to take delight in contemplating and exploring the
 devious ways and varied forms of Nature, as curious exceptions
@@ -697,7 +697,7 @@ subservient to the most beneficent purposes: and how many
 more useful discoveries may there yet be in reserve for the
 alleviation of human misery, from obscure and undetected
 facts still lurking under the very surface of Nature! It will
-in the eyes of future ages be deemed an <i>epocha</i> in the destinies
+in the eyes of future ages be deemed an <lang="la"><i>epocha</i></lang> in the destinies
 of the world, and one of the highest boasts of the
 country in which it took its rise, with a sense of unrequitable
 obligation to the individual[A] who first disclosed and promulgated
