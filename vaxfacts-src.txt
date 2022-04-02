@@ -154,7 +154,7 @@ from 1745 to 1759, both included. In comparing this with
 the preceding series, with regard to absolute numbers, it
 ought to be taken into account, that eleven parishes were
 added to the bills of mortality, between the years 1726 and
-1745, both included:[**; ?] so that the progressive improvement of
+1745, both included: so that the progressive improvement of
 general salubrity ought to be estimated still higher than what
 is indicated by the diminished mortality, as it stands in the
 Tables.
@@ -478,7 +478,7 @@ The description of those cases of Small Pox, (if they can
 be called so,) which occur in vaccinated subjects, is shortly
 as follows:--The invasion and eruption in every respect
 resembles that of the genuine Small Pox. I have seen it
-attended with high fever and a thick crowded crop of <lang="la"><i>papulæ</i></lang>[** papula? 2d a diff from 1st],
+attended with high fever and a thick crowded crop of <lang="la"><i>papulæ</i></lang>,
 such as precedes the most severe and dangerous cases of the
 confluent kind. This runs on till the fifth day from the
 // 011.png
@@ -884,7 +884,7 @@ _
 .ta-
 
 .ce
-<s>In this series it appears that the proportion of deaths from Small Pox to the total mortality is 1 in 18.9, that is, 53[**unclear|F1: clearer in TIA] in 1000.</s>
+<s>In this series it appears that the proportion of deaths from Small Pox to the total mortality is 1 in 18.9, that is, 53 in 1000.</s>
 
 // 019.png
 .bn 019.png
