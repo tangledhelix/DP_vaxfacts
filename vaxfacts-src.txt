@@ -900,7 +900,7 @@ LONDON:
 .tb
 
 .h2
-Transcriber's Notes
+Transcriber’s Notes
 
 Some inconsistencies in spelling, hyphenation, and punctuation have been
 retained.
