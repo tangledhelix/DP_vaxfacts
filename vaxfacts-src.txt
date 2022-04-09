@@ -171,7 +171,7 @@ Inoculation has been so far diffused as to produce a notable
 effect on the mortality of Small Pox; that is, from 1804 to
 1818, both included.
 
-The result of these computations stands as follows:--
+The result of these computations stands as follows:—
 
 .ce
 <i>Ratio of the Mortality of Small Pox to the total Mortality.</i>
@@ -279,7 +279,7 @@ place of 14,716; and assuming that there has been the same
 proportional diminution of deaths in the districts without the
 bills, and among the unregistered subjects, the account of
 lives saved in this metropolis by Vaccination in the fifteen
-years, will stand as follows:--
+years, will stand as follows:—
 
 .ta lr
 Within the bills of mortality  |    12,853
@@ -476,7 +476,7 @@ failures be ascertained and estimated.
 
 The description of those cases of Small Pox, (if they can
 be called so,) which occur in vaccinated subjects, is shortly
-as follows:--The invasion and eruption in every respect
+as follows:—The invasion and eruption in every respect
 resembles that of the genuine Small Pox. I have seen it
 attended with high fever and a thick crowded crop of <lang="la"><i>papulæ</i></lang>,
 such as precedes the most severe and dangerous cases of the
@@ -785,7 +785,7 @@ _
 1719 |  28,347  |     3229     |1|<span>|8-3/4 |   114
 1720 |  25,454  |     1440     |1|<span>|17-1/2|    56
 _
-Total--350,503  |<span>|   27,557     |1|<span>|12.7  |    78
+Total—350,503  |<span>|   27,557     |1|<span>|12.7  |    78
 _
 .ta-
 
@@ -815,7 +815,7 @@ _
 1758 |  17,576  |     1273     |1|<span>|13-3/4|    73
 1759 |  19,604  |     2596     |1|<span>|7-1/2 |   132
 _
-Total--332,826  |<span>|    29,895    |1|<span>|11.2  |    89
+Total—332,826  |<span>|    29,895    |1|<span>|11.2  |    89
 _
 .ta-
 
@@ -849,7 +849,7 @@ _
 1797 |  17,014  |      512     |1|<span>|33-1/2|    30
 1798 |  18,155  |     2237     |1|<span>|8    |   123
 _
-Total--293,350  |<span>|   26,579     |1|<span>|11    |    90.9
+Total—293,350  |<span>|   26,579     |1|<span>|11    |    90.9
 _
 .ta-
 
@@ -879,7 +879,7 @@ _
 1817 |  19,968  |     1051     |1|<span>|19    |    53
 1818 |  19,705  |      421     |1|<span>|47    |    21
 _
-Total--279,404  |<span>|   14,716     |1|<span>|18.9  |    53
+Total—279,404  |<span>|   14,716     |1|<span>|18.9  |    53
 _
 .ta-
 
