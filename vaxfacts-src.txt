@@ -204,7 +204,7 @@ diminished in relation to the population. This diminution of
 general mortality was chiefly owing to the diminished mortality
 of children under two years of age, which, at the time
 when the account began to be kept, 1729, averaged about
-9000; but at the end of the century not more than 5000[A];
+9000; but at the end of the century not more than 5000[#];
 also to the decrease of fevers, and still more of fluxes. The
 relation of the mortality of Small Pox to the population,
 would therefore be a more fair criterion of its increase or
@@ -245,7 +245,8 @@ lives, but whole districts were known to have been exempt
 from it for a long series of years, before it was universally
 diffused by Inoculation.
 
-[Footnote A: This diminished mortality of young children is, like that of fevers and
+.fn #
+This diminished mortality of young children is, like that of fevers and
 fluxes, owing chiefly to the improvements in ventilation and cleanliness, but
 greatly also to laying aside the custom of exposing them to the open air in
 winter and early in spring; either from inadvertency, or from the false notion
@@ -256,7 +257,8 @@ of fuel, that the race of people in Lancashire are so superior in their
 form and size. In Buckinghamshire, on the contrary, where fuel is extremely
 scanty and dear, the race of people is small and puny, insomuch that it is
 provided by Act of Parliament that men shall be admitted into the militia
-of a smaller stature in this than other counties.]
+of a smaller stature in this than other counties.
+.fn-
 
 But the truly important result from these statements consists
 in the clear, undeniable, and great diminution of it since
@@ -357,7 +359,7 @@ of it in 1798, namely, the total extirpation of Small Pox.
 The first proof of this was at Vienna, where, in 1804, no
 cases occurred, except two strangers who came into the city
 with the disease upon them. In 1805 there did not occur a
-single death from it in Copenhagen[A]. Dr. Sacco, the indefatigable
+single death from it in Copenhagen[#]. Dr. Sacco, the indefatigable
 superintendent of Vaccination in Lombardy, stated,
 in his Annual Report, 3d January, 1808, that the Small Pox
 had entirely disappeared in all the large towns in that
@@ -419,7 +421,9 @@ horror and dismay, we should probably be within the truth,
 if we were to assert, that Small Pox has destroyed a hundred
 for every one that has perished by the Plague.
 
-[Footnote A: See Pfaff Neuen Nord v. Archiv. B. I.]
+.fn #
+See Pfaff Neuen Nord v. Archiv. B. I.
+.fn-
 
 It is true that in its last visitation of this metropolis, one
 hundred and fifty-four years ago, it carried off 70,000 victims
@@ -445,7 +449,7 @@ render this disease uncontrovertibly an evil of the first
 magnitude, not to mention the intense sufferings and afflictions
 inseparable from it; and in this view of the matter the
 objection seriously adduced against Vaccination by one of
-its opponents[A], that <i>Small Pox is a merciful dispensation of
+its opponents[#], that <i>Small Pox is a merciful dispensation of
 Providence for the poor man, by diminishing the burden of his
 family</i>, will not hold good, for the burden is not removed.
 
@@ -536,8 +540,10 @@ of failure, they are guided by the <em>exception</em>, which becomes to
 them the <em>rule</em>; their judgments being thereby most fatally
 perverted.
 
-[Footnote A: See Serious Reasons for uniformly opposing Vaccination. By John
-Birch. London, 1807.]
+.fn #
+See Serious Reasons for uniformly opposing Vaccination. By John
+Birch. London, 1807.
+.fn-
 
 As it is of the utmost consequence to establish the strong
 and important distinction between Small Pox, properly so
@@ -547,7 +553,7 @@ may be called the mitigated, or five day Small Pox, a few of
 .bn 012.png
 .pn +1
 the most impressive testimonies respecting the safe nature of
-the latter may be here recited. Mr. Brown[A], of Musselburgh,
+the latter may be here recited. Mr. Brown[#], of Musselburgh,
 gives the detail of forty-eight cases, in none of which
 did the secondary fever nor death occur. Here was a saving
 of at least eight lives, at the lowest computation; for this
@@ -570,7 +576,7 @@ these fifty-three cases had not undergone the mitigating process
 of Vaccination, nineteen or twenty would have perished.
 Between thirty and forty cases of the same kind have occurred
 at Carlisle, on the testimony of Dr. Barnes, a
-respectable practitioner of that city[B]. Many proofs might
+respectable practitioner of that city[#]. Many proofs might
 be adduced from the oral testimony of private practitioners,
 which would overswell this article. The only other to be
 mentioned is from the Report of the Central Committee of
@@ -585,16 +591,21 @@ propriety deny it that name; but it should be distinguished
 by some strong discriminating epithet, such as is suggested
 above.
 
-[Footnote A: See Inquiry into the Antivariolous power of Vaccination. Ed. 1809.
+.fn #
+See Inquiry into the Antivariolous power of Vaccination. Ed. 1809.
 There is an article in the Edinburgh Medical Journal by the same gentleman
 in 1819, in which he mentions that he had heard of several deaths having
 occurred from cases of Small Pox after Vaccination. But, admitting this, it
 is utterly incomprehensible by what process of reasoning Mr. Brown could
 on such premises arrive at the conclusion that Vaccination ought to be
-exploded and abandoned.]
+exploded and abandoned.
+.fn-
 
-[Footnote B: See also a clear and able exposition of this subject in the Medical and
-Surgical Journal of Edinburgh for July, 1818, by Mr. Dunning, of Plymouth.]
+.fn #
+See also a clear and able exposition of this subject in the Medical and
+Surgical Journal of Edinburgh for July, 1818, by Mr. Dunning, of Plymouth.
+.fn-
+
 // 013.png
 .bn 013.png
 .pn +1
@@ -666,7 +677,7 @@ fallen, swelled the number of deaths in London from Small
 Pox to 1051 in 1817, good sense is likely still to prevail, for
 last year (1818) the deaths have fallen lower than they have
 ever been known since the institution of the bills of mortality,
-the total number being only 421[A].
+the total number being only 421[#].
 
 On the whole matter, I believe I am speaking the language
 of every man of good principles and feelings, capable of reflecting
@@ -703,15 +714,17 @@ facts still lurking under the very surface of Nature! It will
 in the eyes of future ages be deemed an <lang="la"><i>epocha</i></lang> in the destinies
 of the world, and one of the highest boasts of the
 country in which it took its rise, with a sense of unrequitable
-obligation to the individual[A] who first disclosed and promulgated
+obligation to the individual[#] who first disclosed and promulgated
 the secret, by drawing it from the dark recesses of
 rural tradition, and rendering it available to the whole human
 race.
 
-[Footnote A: Since the first publication of this Tract, it has appeared that in the succeeding
+.fn #
+Since the first publication of this Tract, it has appeared that in the succeeding
 year (1819), the deaths from the Small Pox had advanced to 712;
 which ought to add to the perseverance, zeal, and vigilance, of the friends of
-humanity in prosecuting Vaccination.]
+humanity in prosecuting Vaccination.
+.fn-
 
 Such are the sentiments which must fill every well constituted
 mind; and it behoves the whole medical profession,
@@ -765,7 +778,10 @@ how to appreciate it, nor how to avail themselves of it, and
 that it has encountered more opposition among ourselves
 than in all the world besides.
 
-[Footnote A: Dr. Edward Jenner.]
+.fn #
+Dr. Edward Jenner.
+.fn-
+
 // 017.png
 .bn 017.png
 .pn +1
@@ -904,6 +920,8 @@ LONDON:
 
 .ce
 <s>PRINTED BY J. MOYES, GREVILLE STREET.</s>
+
+.fm lz=th
 
 .tb
 
