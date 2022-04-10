@@ -52,6 +52,14 @@ PRINTED FOR THOMAS AND GEORGE UNDERWOOD, 32, FLEET STREET.
 
 .ce
 <s>J. MOYES, GREVILLE STREET, LONDON.</s>
+
+.if h
+.ce
+Transcriber’s Note:
+
+The cover image was created by the transcriber and is placed in the public domain.
+.if-
+
 // 003.png
 .bn 003.png
 .pn +1
