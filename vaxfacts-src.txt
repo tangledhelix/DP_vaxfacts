@@ -65,10 +65,18 @@ The cover image was created by the transcriber and is placed in the public domai
 .pn +1
 .pb
 
-.h2
-<s>A</s> || <xl>STATEMENT OF FACTS,</xl> || \
-<s>TENDING TO ESTABLISH AN ESTIMATE OF THE TRUE VALUE AND |\
-PRESENT STATE OF</s> || <xl>VACCINATION.</xl>
+.ce
+<s>A</s>
+
+.ce
+<xl>STATEMENT OF FACTS,</xl>
+
+.ce 2
+<s>TENDING TO ESTABLISH AN ESTIMATE OF THE TRUE VALUE AND
+PRESENT STATE OF</s>
+
+.ce
+<xl>VACCINATION.</xl>
 
 .ce
 <l><sc>By</sc> SIR GILBERT BLANE, <sc>Bart.</sc> F.R.S. Lond. &c.</l>
