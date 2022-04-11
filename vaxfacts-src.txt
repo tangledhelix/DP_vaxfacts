@@ -794,6 +794,8 @@ Dr. Edward Jenner.
 .bn 017.png
 .pn +1
 
+.pb
+
 .ce
 <xl>TABLE I.</xl>
 
@@ -823,6 +825,8 @@ _
 
 .ce
 <s>In this series it appears that the deaths from Small Pox are, to the total mortality, as 1 in 12.7; that is, 78 in 1000.</s>
+
+.pb
 
 .ce
 <xl>TABLE II.</xl>
@@ -858,6 +862,8 @@ _
 .bn 018.png
 .pn +1
 
+.pb
+
 .ce
 <xl>TABLE III.</xl>
 
@@ -887,6 +893,8 @@ _
 
 .ce
 <s>In this series it appears that the proportion of deaths from Small Pox to the total mortality is 1 in 11, that is, 90.9 in 1000.</s>
+
+.pb
 
 .ce
 <xl>TABLE IV.</xl>
