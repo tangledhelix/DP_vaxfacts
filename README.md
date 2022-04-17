@@ -12,6 +12,8 @@ This is a [Distributed Proofreaders](http://www.pgdp.net/) post-processing proje
 
 Page references (e.g. `001`) refer to the scan numbers, not the original book's page numbers.
 
+[Gutenberg listing](https://www.gutenberg.org/ebooks/67824)
+
 ### Project manager notes ###
 
 Please do not use the "1/4" and "1/2" characters in the drop down menus, please render them as a normal fraction per guidelines.
