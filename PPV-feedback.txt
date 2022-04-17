@@ -1,0 +1,53 @@
+PPV Summary for dlowe
+
+    Number of books post-processed by dlowe (including this one): 7
+
+
+Project Information
+
+    projectID: projectID5f3c94069bf78
+    Title: A statement of facts tending to establish an estimate of the true value and present state of vaccination
+    Author: Blane, Gilbert
+    Language: English
+    Proofreading Difficulty: average
+    Number of pages: 19
+    Post-processed by: dlowe
+    Verified by: ******
+    Verified on: 13th of April, 2022
+    Submitted by PP on: 11-Apr-2022
+
+General Post-Processing Information
+
+    PPing Difficulty: Easy
+    Overall evaluation of PPer's work: Excellent
+
+PPing Complexity:
+
+    Text File Size: 46.4 KB
+    Some Tables
+    1 Illustrations (other than minor decorations or logos)
+
+Level 1 Errors:
+
+    All Versions:
+      None
+
+    HTML Version Only:
+      None
+
+Level 2 Errors:
+
+    All Versions:
+      None
+
+    HTML Version Only:
+      None
+
+Strongly Recommended (These don't count as errors but should be corrected):
+    None
+
+Mildly Recommended (These don't count as errors):
+    None
+
+General comments:
+    Uploaded as provided--great job!
